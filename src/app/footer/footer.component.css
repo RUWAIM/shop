@@ -1,0 +1,59 @@
+
+
+.footer{
+  position: absolute;
+  top: 1300px;
+  height: 350px;
+  width: 99%;
+  background-color: rgb(29, 210, 255);
+
+}
+.informations{
+  position: relative;
+  left: 50px;
+}
+.social-media{
+  position: relative;
+  left: 700px;
+  top: 0px;
+}
+
+.insta{
+  position: relative;
+  width: 40px;
+  top: 10px;
+  left: -30px;
+
+}
+.insta:hover{
+  background-color: black;
+  cursor: pointer;
+}
+.face-book{
+position: relative;
+width: 40px;
+top: -34px;
+left: 770px;
+}
+.face-book:hover{
+  background-color: black;
+  cursor: pointer;
+}
+
+.watsapp{
+  position: relative;
+width: 40px;
+top: -34px;
+left: 680px;
+/* border-radius: 20px; */
+}
+.watsapp:hover{
+  cursor: pointer;
+}
+.contact{
+  position: relative;
+  top: -20px;
+  left: 150px;
+  color: brown;
+}
+

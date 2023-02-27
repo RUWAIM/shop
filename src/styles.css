@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+/* body{
+  position: absolute;
+scroll-padding-left: 10px;
+} */
+body{
+  scroll-padding-left: 0px;
+  width: 100%;
+  overflow-x: hidden;
+  /* height: 400px; */
+}
